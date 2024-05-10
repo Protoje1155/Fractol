@@ -1,4 +1,5 @@
 # Fractol Project
+The fractal is rendered using the [Minilibx](https://github.com/42Paris/minilibx-linux.git) library.
 ## Overview
 - The Fractol project is a graphical exploration of fractals, mathematical sets that exhibit self-similar patterns at every scale.
 - This project allows users to interactively explore and visualize various fractals.
