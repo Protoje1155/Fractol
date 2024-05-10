@@ -8,7 +8,7 @@ The fractal is rendered using the [Minilibx](https://github.com/42Paris/minilibx
 - The primary objective of the Fractol project is to implement a graphical application that generates and displays fractals in real-time.  
 - The application should provide interactive controls for users to navigate and manipulate the fractals.
 
-Features
+## Features
 - Supports visualization of the Mandelbrot set, Julia set, cubic Mandelbrot set, and Nova set(own creation).
 - Interactive controls for zooming, panning, and adjusting parameters of the fractals.
 - Multiple color schemes for visual customization.
