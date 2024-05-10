@@ -23,7 +23,7 @@ git clone <repository-url>
 ```
 2. Navigate to the Fractol directory:
 ```
-cd fractol
+cd ft_fractol
 ```
 3. Compile the program:
 ```
