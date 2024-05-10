@@ -28,7 +28,7 @@ cd fractol
 ```
 make all
 ```
-4. Execute the program with the desired fractal type:
+### 4. Execute the program with the desired fractal type:
 #### Mandelbrot Set:
 ```
 ./fractol mandelbrot
